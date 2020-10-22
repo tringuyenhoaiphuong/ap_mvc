@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="questionA">Châu Á Thái Bình Dương lớn hơn Đại Tây Dương?</string>
+    <string name="questionB">Sài Gòn thuộc miền Nam Việt Nam?</string>
+    <string name="questionC">Sông Hương nằm ở Quảng Bình?</string>
+    <string name="questionD">Diện tích Việt Nam lớn hơn diện tích Trung Quốc?</string>
+    <string name="questionE">Việt Nam nằm ở phía Đông của Lào?</string>
+</resources>
