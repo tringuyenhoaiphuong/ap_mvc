@@ -30,16 +30,24 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
                 <Button
+                    android:id="@+id/btTrue"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:onClick="btTrue_OnClick"
                     android:text="TRUE"></Button>
                 <Button
+                    android:id="@+id/btFalse"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:onClick="btFalse_OnClick"
                     android:text="FALSE"></Button>
             </LinearLayout>
+
+            <Button
+                android:id="@+id/btCheat"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cheat"></Button>
         </LinearLayout>
 
     </LinearLayout>

@@ -5,4 +5,8 @@
     <string name="questionC">Sông Hương nằm ở Quảng Bình?</string>
     <string name="questionD">Diện tích Việt Nam lớn hơn diện tích Trung Quốc?</string>
     <string name="questionE">Việt Nam nằm ở phía Đông của Lào?</string>
+    <string name="cheat">Cheat!</string>
+    <string name="comfirm_show_answer">Are you sure you want to do this?</string>
+    <string name="show_answer">Show answer!</string>
+    <string name="you_saw_the_answer">You saw the answer!</string>
 </resources>
